@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Welcome to my Quiz Project!🧙🏻‍♀️✍🏼
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with React/ Typescript and for styling, I used Chakra UI.
+
+This project is an example of using a quiz API. A simple game of questions and answers, in this project the theme is Mythology.
+It can be checked both on Desktop and Mobile. Open to [Vercel](https://quiz-lime-three.vercel.app/) 👈🏼👈🏼🧚🏼‍♀️
+
+![image](https://user-images.githubusercontent.com/52144604/209996712-fd031514-9243-41be-ba39-0e8bf596a5ee.png)
+![image](https://user-images.githubusercontent.com/52144604/209996748-284e73ac-91f7-4f05-8e84-c60a9b3aab68.png)
+
 
 ## Available Scripts
 
@@ -41,6 +48,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Vercel: https://quiz-lime-three.vercel.app/
